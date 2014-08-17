@@ -1,0 +1,11 @@
+package zombiewuerfel._1_dieWürfel;
+
+public enum Würfelseite {
+	WÜRFELSEITE_UNBEKANNT,
+	WÜRFELSEITE_EINS,
+	WÜRFELSEITE_ZWEI,
+	WÜRFELSEITE_DREI,
+	WÜRFELSEITE_VIER,
+	WÜRFELSEITE_FÜNF,
+	WÜRFELSEITE_SECHS;
+}
